@@ -25,6 +25,7 @@
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
 
 
+
 <br><br>
 
 ## ⚙️ &nbsp;GitHub Analytics
@@ -43,8 +44,8 @@
 <a href="https://codepen.io/daokisan" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-daokisan-05122A?style=flat&logo=codepen" alt="codepen"/>
 </a>
-<a href="https://linkedin.com/in/daokidev" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-daokidev-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+<a href="https://www.linkedin.com/in/devdaoki/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-devdaoki-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://instagram.com/daokley" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-daokley-05122A?style=flat&logo=instagram" alt="instagram"/>
