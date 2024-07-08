@@ -4,7 +4,7 @@
 
 - 🔥 Desenvolvedor Front End
 
-- 💬 Me pergunte sobre **JavaScript, HTML, CSS, SQL, Node.JS, React, PHP, Boostrap, Ui & Ux**
+- 💬 Me pergunte sobre **JavaScript, HTML, CSS, SQL, Node.JS, React, PHP, Bootstrap, Ui & Ux**
 
   
 
